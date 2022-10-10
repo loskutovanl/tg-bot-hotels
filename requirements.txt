@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.4.0
+python-dotenv==0.19.2
+requests~=2.27.1
+peewee~=3.14.10
+DateTime~=4.4
